@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hola, Soy Luis Nativii 👋
 
-<!--
-**Luisnativii/Luisnativii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mí
 
-Here are some ideas to get you started:
+Soy un estudiante de Ingeniería Informática con experiencia en desarrollo móvil utilizando Android Studio y Kotlin. Me especializo en Jetpack Compose y ViewModel, y también estoy llevando a cabo análisis numérico en Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Actualmente trabajando en proyectos móviles.
+- 🌱 Aprendiendo más sobre analítica de datos.
+- 💬 Pregúntame sobre desarrollo móvil y análisis numérico.
+- 📫 Cómo contactarme: luis.nativii@example.com
+- ⚡ Dato curioso: ¡Me encanta resolver problemas complejos y aprender cosas nuevas cada día!
+
+## Estadísticas de GitHub
+
+![Luisnativii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luisnativii&show_icons=true&theme=radical)
+
+## Lenguajes Más Usados
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luisnativii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## Racha de Contribuciones
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Luisnativii&theme=radical)](https://git.io/streak-stats)
