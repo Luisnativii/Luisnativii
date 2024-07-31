@@ -1,14 +1,25 @@
-# Hola, Soy Luis Nativii 👋
+# Hola, Soy Luis Nativi 👋
 
 ## Sobre Mí
 
-Soy un estudiante de Ingeniería Informática con experiencia en desarrollo móvil utilizando Android Studio y Kotlin. Me especializo en Jetpack Compose y ViewModel, y también estoy llevando a cabo análisis numérico en Python.
+Soy un estudiante de Ingeniería Informática en la UCA cursando mi 7mo Ciclo 
 
-- 🔭 Actualmente trabajando en proyectos móviles.
-- 🌱 Aprendiendo más sobre analítica de datos.
-- 💬 Pregúntame sobre desarrollo móvil y análisis numérico.
-- 📫 Cómo contactarme: luis.nativii@example.com
-- ⚡ Dato curioso: ¡Me encanta resolver problemas complejos y aprender cosas nuevas cada día!
+- 🔭 Actualmente trabajando en proyectos pequeños de desarrolo WEB y Mobil.
+- 🌱 Aprendiendo más sobre Analisis de metodos numericos.
+
+- 📫 Cómo contactarme: 00200022@uca.edu.sv
+- ⚡ Dato curioso: soy muy bueno en matematicas, me encanta programar conocer como estan hechas las cosas desde 0, tengo muchos conocimientos tales como:
+
+  -C++
+  -Java
+  -Oracle
+  -My Sql
+  -JavaScript
+  -Python
+  -css scss
+  -html
+  -react + vite + Tailwinds
+  -Deployers como Nelifly, Vercel, Railway.
   
 ## Racha de Contribuciones
 
