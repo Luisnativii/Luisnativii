@@ -1,7 +1,5 @@
 # Hola, Soy Luis Nativi 👋
 
-<img src="https://raw.githubusercontent.com/Vicquemare/Vicquemare/main/assets/1.gif" align="right" width="200" />
-
 ## Sobre Mí
 
 Soy un estudiante de Ingeniería Informática en la UCA cursando mi 7mo Ciclo.
@@ -10,6 +8,8 @@ Soy un estudiante de Ingeniería Informática en la UCA cursando mi 7mo Ciclo.
 - 🌱 Aprendiendo más sobre Análisis de Métodos Numéricos.
 - 📫 Cómo contactarme: 00200022@uca.edu.sv
 - ⚡ Dato curioso: Soy muy bueno en matemáticas, me encanta programar y conocer cómo están hechas las cosas desde 0. Tengo muchos conocimientos tales como:
+
+  <img src="https://raw.githubusercontent.com/Vicquemare/Vicquemare/main/assets/1.gif" align="right" width="200" />
 
   - **C++**
   - **Java**
